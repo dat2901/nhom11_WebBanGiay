@@ -1,0 +1,61 @@
+.img
+{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+div h2
+{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.Website
+{
+    background-image: url(1/gioithieu.png);
+}
+.Website-One p
+{
+    margin-left: 200px;
+    color: blue;
+    font-size: 40px;
+}
+.Website-One ul li
+{
+    margin-left: 300px;
+    list-style: none;
+    font-size: 30px;
+    color: white;
+}
+.Team p
+{
+    margin-left: 200px;
+    color: blue;
+    font-size: 40px;
+}
+.Team-One h1
+{
+    margin-left: 200px;
+    font-size: 30px;
+    color:turquoise;
+}
+.Team-One ul li
+{
+    margin-left: 300px;
+    list-style: none;
+    font-size: 30px;
+    color: white;
+}
+.Detai
+{
+    margin-left: 5px;
+    color: blue;
+    font-size: 40px;
+}
+.Lydo ul li
+{
+    margin-left: 300px;
+    list-style: none;
+    font-size: 30px;
+    color: white;
+}

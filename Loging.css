@@ -1,0 +1,20 @@
+.Hinh img
+{
+   margin-left: 120px;
+}
+a
+{
+    text-decoration: none;
+    color: white;
+}
+p
+{
+    font-size: 40px;
+    color: gray;
+    margin-left: 70px;
+}
+button :hover
+{
+    color:white;
+    transition: all 0.3s ease;
+}
